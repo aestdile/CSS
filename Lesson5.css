@@ -1,0 +1,16 @@
+/* Id selector*/
+#id {
+    color: blue;
+}
+
+
+/* Class selector*/
+.class {
+    color: red;
+}
+
+
+/* Universal selector*/
+* {
+    color: aqua;
+}
