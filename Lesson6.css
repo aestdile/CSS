@@ -1,0 +1,14 @@
+#heading1 {
+    color: blue;
+}
+
+.heading {
+    color: red; /* not considered*/
+    font-size: 24px;
+}
+
+h1 {
+    color: green; /* not considered*/
+    font-size: 48px; /* not considered*/
+    font-style: italic;
+}
